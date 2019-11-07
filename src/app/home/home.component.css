@@ -1,0 +1,18 @@
+div{
+margin-bottom: 5%;
+    /* background-image: "https://cdn.pixabay.com/photo/2014/08/16/10/48/library-419254__340.jpg"; */   
+}
+.thumbnail {
+    border: 1px solid black;
+    height:100%;
+    width:100%;
+    background:url(https://cdn.pixabay.com/photo/2015/07/17/22/42/library-849797__340.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+input.ng-invalid.ng-touched{
+border: 1px solid red
+}
+input.ng-valid.ng-touched{
+    border:1px solid green
+}
